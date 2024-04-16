@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunghwan95&count_bg=%232ED0CE&title_bg=%23151515&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=skyblue)
 ![Node.js](https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=green)
 ![Nest.js](https://img.shields.io/badge/Nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=peach)
 ![Mongo DB](https://img.shields.io/badge/Mongo%20DB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=green)
